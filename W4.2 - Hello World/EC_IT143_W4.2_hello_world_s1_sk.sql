@@ -1,0 +1,1 @@
+-- Q: How do we extract a basic 'Hello World' message from the database?

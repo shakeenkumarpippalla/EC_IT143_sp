@@ -1,0 +1,1 @@
+-- A: We can select a hardcoded string expression to return 'Hello World' as a scalar value.
