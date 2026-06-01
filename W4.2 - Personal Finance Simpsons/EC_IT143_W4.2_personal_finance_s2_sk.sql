@@ -1,0 +1,1 @@
+-- A: We need to sum up the transactional Amounts grouped by the Category field in Planet_Express.
